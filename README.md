@@ -2,4 +2,4 @@
 Salsanana International Casting Python Project
 
 
-https://gustos-ish.github.io/sic/radar_chart.html
+https://gustos-ish.github.io/sic/top5_radar_chart.html
